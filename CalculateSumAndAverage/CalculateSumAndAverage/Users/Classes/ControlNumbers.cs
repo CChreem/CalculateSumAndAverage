@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CalculateSumAndAverage.Operations.Users.Classes
+namespace CalculateSumAndAverage.Users.Classes
 {
     public class ControlNumbers : IControlNumbers
     {

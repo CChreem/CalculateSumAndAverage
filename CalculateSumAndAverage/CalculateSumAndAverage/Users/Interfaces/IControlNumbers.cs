@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CalculateSumAndAverage.Operations.Users.Interfaces
+namespace CalculateSumAndAverage.Users.Interfaces
 {
     public interface IControlNumbers
     {

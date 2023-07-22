@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Operations\Users\Classes\ControlNumbers.cs" />
-    <Compile Include="Operations\Users\Interfaces\IControlNumbers.cs" />
+    <Compile Include="Users\Classes\ControlNumbers.cs" />
+    <Compile Include="Users\Interfaces\IControlNumbers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
